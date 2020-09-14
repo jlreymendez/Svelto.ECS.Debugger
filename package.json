@@ -1,0 +1,11 @@
+{
+    "displayName": "Svelto ECS Debugger",
+    "category": "Svelto",
+    "description": "Svelto ECS Debugger is an editor tool for the Svelto ECS C# Framework",
+    "keywords": [
+      "svelto"
+    ],
+    "name": "com.sebaslab.svelto.ecs",
+    "version": "3.0.0",
+    "type": "framework"
+}
